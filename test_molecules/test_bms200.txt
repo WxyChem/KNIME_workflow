@@ -1,0 +1,1 @@
+Cc1c(COc2cc(F)c(CNC[C@@H](O)CC(=O)O)cc2F)cccc1-c1ccc2c(c1)OCCO2

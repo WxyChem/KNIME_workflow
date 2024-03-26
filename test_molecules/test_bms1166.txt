@@ -1,0 +1,1 @@
+Cc1c(COc2cc(OCc3cccc(C#N)c3)c(CN3C[C@H](O)C[C@@H]3C(=O)O)cc2Cl)cccc1-c1ccc2c(c1)OCCO2

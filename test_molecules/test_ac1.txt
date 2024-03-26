@@ -1,0 +1,1 @@
+OC[C@@H](C(O)=O)NCc(c(OCc1cnccc1)c1)cc(Cl)c1OCc1cccc(-c2ccccc2)c1Br
